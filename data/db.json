@@ -1,0 +1,34 @@
+{
+  "blog": [
+    {
+      "title": "My first blog",
+      "body": "lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum",
+      "author": "Tom Amundala",
+      "id": 1
+    },
+    {
+      "title": "Opening Party",
+      "body": "lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum",
+      "author": "Tina Shukuru",
+      "id": 2
+    },
+    {
+      "title": "AMata",
+      "body": "Hello world!",
+      "author": "Tina",
+      "id": 3
+    },
+    {
+      "title": "Injaga Nyinshi",
+      "body": "Twirinde duharanira gutera imbere no guteza imbere igihugu",
+      "author": "Tina",
+      "id": 4
+    },
+    {
+      "title": "All I need is you Lord",
+      "body": "Thank God for everything, My family, my Mother, My father, My T, My friends and their families, your People and I we are all nothing without you Lord, Glory be to you AMEN!",
+      "author": "Tina",
+      "id": 5
+    }
+  ]
+}
